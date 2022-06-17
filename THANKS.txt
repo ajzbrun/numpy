@@ -56,7 +56,7 @@ Miller, Rick White and Paul Barrett) projects.  We thank them for
 paving the way ahead.
 
 Institutions
-------------
+-----------
 
 Enthought for providing resources and finances for development of NumPy.
 UC Berkeley for providing travel money and hosting numerous sprints.
